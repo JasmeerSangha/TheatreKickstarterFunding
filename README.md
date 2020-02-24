@@ -3,7 +3,7 @@ Uncovering trends through Kickstarter analysis
 
 ### Challenge
 
-https://github.com/JasmeerSangha/kickstarter-analysis/blob/master/outcome%20vs.%20goal%20(plays).png
+![Fig.1]https://github.com/JasmeerSangha/kickstarter-analysis/blob/master/outcome%20vs.%20goal%20(plays).png
 The analysis done on the outcome of kickstarted plays shows that campaigns with a goal less than $5000 havea high chance of success. Though the line graph suggests that some higher goals may also produce a significant amount of successful campaigns, the number of campaigns in these ranges is small compared to the lower end (75% of all plays have funding goals less than $10,000). The plot shows the percentage of successful campaigns but comparing the amount (instead of percentage) of successful campaigns would better illustrate this. A simple line or stacked bar graph could be used, though these also prove troublesome as the number of enrtries in each range vary so wildly (a log graph might help).
 
 https://github.com/JasmeerSangha/kickstarter-analysis/blob/master/outcome%20vs.%20launch%20date%20(theater).png
